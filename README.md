@@ -1,2 +1,2 @@
 # icris-ggplot
-contains course on proect creation, ggplot
+contains course on project creation, ggplot
